@@ -15,4 +15,6 @@
     width: 90px;
     height: 90px;
     background-color: orange;
+    display: flex;
+    justify-content: center;
 }
